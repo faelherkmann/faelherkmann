@@ -1,9 +1,9 @@
 <div align="center">
 
-<h2>Yooo! 👋 Eu sou o Raphael Herkmann</h2>
+<h2>Salut! 👋 Eu sou o Raphael Herkmann</h2>
 
 <p>
-Desenvolvedor Full Stack movido por aprendizado contínuo e evolução constante.<br>
+Desenvolvedor Full Stack em formação movido por aprendizado contínuo e evolução constante.<br>
 Construo soluções limpas e escaláveis para problemas reais, afiando minhas skills a cada projeto.
 </p>
 
