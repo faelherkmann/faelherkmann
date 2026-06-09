@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>Salut! 👋 Eu sou o Raphael Herkmann</h2>
+<h2>Raphael Herkmann</h2>
 
 <p>
 Desenvolvedor Full Stack movido por aprendizado contínuo e evolução constante.<br>
